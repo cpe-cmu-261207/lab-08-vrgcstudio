@@ -14,3 +14,5 @@ npm run dev
 ## Build & Deployment
 
 ให้นศ.ศึกษาวิธีการ build ใน **codesandbox.io** ได้จาก slide **Slide 10 - React Part One (extras)**
+
+https://t2f7o0-3000.preview.csb.app/
